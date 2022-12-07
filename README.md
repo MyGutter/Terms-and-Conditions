@@ -1,6 +1,5 @@
 
-
-
+<html>
 
   <div data-custom-class="body">
   <div align="center" style="text-align: left;"><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div align="center" class="MsoNormal" style="text-align:center;line-height:150%;"><a name="_2cipo4yr3w5d"></a><div align="center" class="MsoNormal" style="line-height: 22.5px;"><div align="center" class="MsoNormal" style="line-height: 150%;"><a name="_gm5sejt4p02f"></a><div align="center" class="MsoNormal" data-custom-class="title" style="text-align: left; line-height: 1.5;"><strong><span style="line-height: 22.5px; font-size: 26px;">END USER <bdt class="block-component"></bdt>LICENSE<bdt class="statement-end-if-in-editor"></bdt> AGREEMENT</span></strong></div><div align="center" class="MsoNormal" style="line-height: 22.5px; text-align: left;"><a name="_7m5b3xg56u7y"></a></div></div></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><span style="font-size: 11pt; line-height: 16.8667px;"><strong><span data-custom-class="body_text"><span style="color: rgb(89, 89, 89);">Last updated</span> </span></strong><bdt class="question"><strong><span data-custom-class="body_text">November 17, 2022</span></strong></bdt></span></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><span style="font-size: 11pt; line-height: 16.8667px;"><br></span></div></div></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><br></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div class="MsoNormal" data-custom-class="heading_1" style="line-height: 115%;"><a name="_a7mwfgcrtsqn"></a></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;
@@ -98,21 +97,9 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
-Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-component"></bdt>16<bdt class="statement-end-if-in-editor"></bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-container if" data-type="if" id="8d4c883b-bc2c-f0b4-da3e-6d0ee51aca13"><bdt data-type="conditional-block"><bdt data-type="body"><span style="color: rgb(89, 89, 89);">.3  <bdt class="question">User agrees to the fact that abusive, hateful, and objectionable content is prohibited</bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="statement-end-if-in-editor"></bdt></span></span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div></bdt></bdt></bdt></div></div><style>
-      ul {
-        list-style-type: square;
-      }
-      ul > li > ul {
-        list-style-type: circle;
-      }
-      ul > li > ul > li > ul {
-        list-style-type: square;
-      }
-      ol li {
-        font-family: Arial ;
-      }
-    </style>
+Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-component"></bdt>16<bdt class="statement-end-if-in-editor"></bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-container if" data-type="if" id="8d4c883b-bc2c-f0b4-da3e-6d0ee51aca13"><bdt data-type="conditional-block"><bdt data-type="body"><span style="color: rgb(89, 89, 89);">.3  <bdt class="question">User agrees to the fact that abusive, hateful, and objectionable content is prohibited</bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="statement-end-if-in-editor"></bdt></span></span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div></bdt></bdt></bdt></div></div>
       </div>
       <div style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">
       This EULA was created using Termly's <a style="color: rgb(48, 48, 241) !important;" href="https://termly.io/products/eula-generator/">EULA Generator</a>.
       </div>
+  </html>
